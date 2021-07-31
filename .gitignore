@@ -1,0 +1,6 @@
+venv
+rule_base.sql
+.idea
+
+__pycache__/
+*.py[cod]
